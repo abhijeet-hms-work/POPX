@@ -64,8 +64,8 @@ const ProfilePage = () => {
           </div>
           
           <div>
-            <h2 className="text-base font-semibold text-gray-900">Mummadi Adarsh Chary</h2>
-            <p className="text-sm text-gray-600">adarshchary.05@gmail.com</p>
+            <h2 className="text-base font-semibold text-gray-900">Abhijeet</h2>
+            <p className="text-sm text-gray-600">(contact info TBD)</p>
           </div>
         </div>
 
