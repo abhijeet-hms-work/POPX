@@ -6,8 +6,8 @@
 
 **A Modern User Authentication & Profile Management Application**
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20App-success?style=for-the-badge)](https://pop-x-bice-one.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/M-ADARSHCHARY/pop-x)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-TBD-lightgrey?style=for-the-badge)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/abhijeet-hms-work/POPX)
 
 *Built for EduCase Company's React Internship Recruitment*
 
@@ -30,13 +30,13 @@ PopX is a comprehensive user authentication and profile management application s
 
 ## 🚀 **Live Demo**
 
-**Experience the app:** [https://pop-x-bice-one.vercel.app/](https://pop-x-bice-one.vercel.app/)
+**Experience the app:** (TBD)
 
 ### 📱 **App Features Demo**
-- **Landing Page**: [`/`](https://pop-x-bice-one.vercel.app/) - Welcome screen with call-to-action
-- **User Registration**: [`/signup`](https://pop-x-bice-one.vercel.app/signup) - Complete signup form
-- **User Login**: [`/login`](https://pop-x-bice-one.vercel.app/login) - Authentication interface
-- **Profile Management**: [`/profile`](https://pop-x-bice-one.vercel.app/profile) - User profile with image upload
+- **Landing Page**: [`/`](TBD) - Welcome screen with call-to-action
+- **User Registration**: [`/signup`](TBD) - Complete signup form
+- **User Login**: [`/login`](TBD) - Authentication interface
+- **Profile Management**: [`/profile`](TBD) - User profile with image upload
 
 ---
 
@@ -238,7 +238,7 @@ This project successfully demonstrates:
 ✅ **Responsive Design**: Mobile-first approach with Tailwind CSS  
 ✅ **User Experience**: Intuitive navigation and interactions  
 ✅ **Code Quality**: Clean, maintainable, and well-structured code  
-✅ **Production Ready**: Deployed application with optimized build  
+✅ **Production Ready**: (Deployment TBD)
 
 ---
 
